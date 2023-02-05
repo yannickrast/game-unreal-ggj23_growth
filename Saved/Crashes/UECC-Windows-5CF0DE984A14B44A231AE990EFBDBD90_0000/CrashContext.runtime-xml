@@ -25,7 +25,7 @@
 		<EngineModeEx>Vanilla</EngineModeEx>
 		<DeploymentName />
 		<EngineVersion>5.1.0-23058290+++UE5+Release-5.1</EngineVersion>
-		<CommandLine>C:\Users\YannickRast\OneDrive\Projekte\Games\Unreal\Growth\Growth.uproject -EpicPortal -epicusername=Barnak410 -epicuserid=ef497b7a558e49e8865377f964c3c039 -epiclocale=de -epicsandboxid=ue</CommandLine>
+		<CommandLine>CommandLineRemoved</CommandLine>
 		<LanguageLCID>0</LanguageLCID>
 		<AppDefaultLocale>de-DE</AppDefaultLocale>
 		<BuildVersion>++UE5+Release-5.1-CL-23058290</BuildVersion>
